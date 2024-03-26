@@ -1,0 +1,10 @@
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\bin\Debug\OdevNesne.exe.config
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\bin\Debug\OdevNesne.exe
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\bin\Debug\OdevNesne.pdb
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\obj\Debug\OdevNesne.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\obj\Debug\OdevNesne.Form1.resources
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\obj\Debug\OdevNesne.Properties.Resources.resources
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\obj\Debug\OdevNesne.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\obj\Debug\OdevNesne.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\obj\Debug\OdevNesne.exe
+C:\Users\ahmet\Desktop\OdevNesne\OdevNesne\obj\Debug\OdevNesne.pdb
